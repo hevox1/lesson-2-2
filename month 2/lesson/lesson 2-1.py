@@ -39,14 +39,3 @@ class Raketa:
 
 
 Raketa.run(hum.name)
-
-
-
-
-
-
-
-
-
-
-
