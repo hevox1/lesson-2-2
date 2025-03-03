@@ -72,3 +72,6 @@ class Human:
 hum = Human('dmitry', 16)
 
 Robot3.desti(hum.name)
+
+
+
